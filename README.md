@@ -1,8 +1,6 @@
 Hello there.
 
-These are my answers from https://www.codewars.com/kata/ 
-
-all in C# of course. 
+These are my answers from https://www.codewars.com/kata/ all in C# of course. 
 
 Feel free to clone the repo. I have split the project into two parts.
 
