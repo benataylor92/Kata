@@ -8,7 +8,7 @@ namespace Kata
     {
         public static int Find(int[] integers)
         {
-            return -1;
+            return hello;
         }
     }
 }
