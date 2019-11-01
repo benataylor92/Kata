@@ -1,0 +1,9 @@
+C:\Users\taylorbx\Desktop\Kata\Kata\obj\Debug\netstandard2.0\Kata.csprojAssemblyReference.cache
+C:\Users\taylorbx\Desktop\Kata\Kata\obj\Debug\netstandard2.0\Kata.csproj.CoreCompileInputs.cache
+C:\Users\taylorbx\Desktop\Kata\Kata\obj\Debug\netstandard2.0\Kata.AssemblyInfoInputs.cache
+C:\Users\taylorbx\Desktop\Kata\Kata\obj\Debug\netstandard2.0\Kata.AssemblyInfo.cs
+C:\Users\taylorbx\Desktop\Kata\Kata\bin\Debug\netstandard2.0\Kata.deps.json
+C:\Users\taylorbx\Desktop\Kata\Kata\bin\Debug\netstandard2.0\Kata.dll
+C:\Users\taylorbx\Desktop\Kata\Kata\bin\Debug\netstandard2.0\Kata.pdb
+C:\Users\taylorbx\Desktop\Kata\Kata\obj\Debug\netstandard2.0\Kata.dll
+C:\Users\taylorbx\Desktop\Kata\Kata\obj\Debug\netstandard2.0\Kata.pdb
