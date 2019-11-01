@@ -9,7 +9,7 @@ namespace Kata
     {
         public static int Find(int[] integers)
         {
-            return "this is a test";
+            return 11;
         }
     }
 }

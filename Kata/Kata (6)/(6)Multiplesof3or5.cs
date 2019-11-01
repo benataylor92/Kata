@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Kata
 {
-    public partial class Multiplesof3or5
+    public class Multiplesof3or5
     {
         public static int Solution(int value)
         {
