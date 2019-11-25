@@ -10,15 +10,6 @@ namespace Kata.kata__5_
     {
         public static string PigIt(string str)
         {
-            //string[] arrOfString = str.Split(' ');
-            //string start = " ";
-            //foreach (string a in arrOfString)
-            //{
-            //    start += a.Substring(0, a.Length - 1) + " ";
-            //    start += "ay";
-            //}
-            //return start;
-
             string[] arrayOfString = str.Split(' ');
 
             List<string> finish = new List<string>();
@@ -38,16 +29,6 @@ namespace Kata.kata__5_
 
 
             return expected;
-
-            //string[] arrayOfString = str.Split(' ');
-
-            //char[] firstword = arrayOfString[0].ToCharArray();
-
-            //var result = firstword.Skip(1).Concat(firstword.Take(1));
-
-            //string s1 = string.Join("", result);
-
-            //s1 += @"ay";
         }
     }
 }
