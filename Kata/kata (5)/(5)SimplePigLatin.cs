@@ -1,8 +1,5 @@
-﻿using EO.Internal;
-using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 
 namespace Kata.kata__5_
 {
@@ -27,8 +24,8 @@ namespace Kata.kata__5_
 
             var expected = string.Join(" ", finish);
 
-
             return expected;
         }
+        //return string.Join(" ", str.Split(' ').Select(w => w.Substring(1) + w[0] + "ay"));
     }
 }
